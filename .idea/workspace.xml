@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83dbd1ee-2543-49a0-a0bb-04523e3c10a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW201023/HW201023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson221223/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/DragDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/Hover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/NestedFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/PhotoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/PracticeForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/PracticeFormRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/SwitchToTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/SwitchToTab2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/ToDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/ToolTips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAAA/selenium-110723/src/test/java/UploadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestSet/TestSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/comparing/CustomAgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/comparing/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/comparing/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/EqualsObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slides/lecture1-Classes_Object_Modifier_Encapsulation.pptm.pptx.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slides/lecture2_Inheritance_Abstract_classes_Polymorphism.pptm.pptx.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Airplane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/AnimalApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Elephant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Junior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Man.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Moveable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/PartyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/RepeatApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonone/Woman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonthree/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonthree/TestArrayApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessonthree/TestArrayAppTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/BigCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/CarExampleApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/LittleCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/PolyExampleApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/PolyExampleOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/PolyExampleTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/PrintExampleArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/SmallCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/homework/BookProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/homework/FoodProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/homework/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/homework/Storage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/homework/TechProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/homework/TestStorageSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/qatelran/org/lessontwo/homework/Truck.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZRP3exMq63VkZwFAvpgXG5Ftr0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/~IdeaProjects/sausedemo&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\~IdeaProjects\JavaForQA\sausedemo\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\~IdeaProjects\JavaForQA\sausedemo\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CartTest.emptyCart">
+    <configuration name="CartPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sausedemo" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CartPage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.backpackAddedToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sausedemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartTest" />
+      <option name="METHOD_NAME" value="backpackAddedToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.emptyCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sausedemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartTest" />
+      <option name="METHOD_NAME" value="emptyCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sausedemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InventoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SideBarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sausedemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SideBarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CartTest.emptyCart" />
+        <item itemvalue="JUnit.CartTest.backpackAddedToCart" />
+        <item itemvalue="JUnit.CartPage" />
+        <item itemvalue="JUnit.SideBarTest" />
+        <item itemvalue="JUnit.InventoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83dbd1ee-2543-49a0-a0bb-04523e3c10a7" name="Changes" comment="" />
+      <created>1702381722184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702381722184</updated>
+    </task>
+    <servers />
+  </component>
+</project>
